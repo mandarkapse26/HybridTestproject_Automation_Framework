@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-02T17:46:27 IST" name="Default suite" finished-at="2026-03-02T17:46:52 IST" duration-ms="25138">
+    <groups>
+    </groups>
+    <test started-at="2026-03-02T17:46:27 IST" name="Default test" finished-at="2026-03-02T17:46:52 IST" duration-ms="25138">
+      <class name="Tests.testcode">
+        <test-method is-config="true" signature="firstp()[pri:0, instance:Tests.testcode@336f1079]" started-at="2026-03-02T17:46:27 IST" name="firstp" finished-at="2026-03-02T17:46:36 IST" duration-ms="8793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstp -->
+        <test-method signature="second()[pri:0, instance:Tests.testcode@336f1079]" started-at="2026-03-02T17:46:36 IST" name="second" finished-at="2026-03-02T17:46:52 IST" duration-ms="15855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method is-config="true" signature="closebr()[pri:0, instance:Tests.testcode@336f1079]" started-at="2026-03-02T17:46:52 IST" name="closebr" finished-at="2026-03-02T17:46:52 IST" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebr -->
+      </class> <!-- Tests.testcode -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
