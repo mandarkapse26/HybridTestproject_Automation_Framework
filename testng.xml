@@ -5,7 +5,7 @@
 
     <test name="Hybrid Test">
         <classes>
-            <class name="TestCases.HomePageTest"/>
+            <class name="Tests.testcode"/>
         </classes>
     </test>
 
